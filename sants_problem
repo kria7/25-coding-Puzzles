@@ -1,0 +1,5 @@
+def sants_problem(n):
+  n = int(n/3) - 2
+  print(n)
+
+sants_problem(100756) 
